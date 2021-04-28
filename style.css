@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    color: blue
+}
+
+p {
+    text-align: center;
+}
+div {
+    display: inline-block;
+    border: 3px black solid;
+    text-align: center;
+    
+  }
+
+#Corretas{
+    color: green;
+    font-size: 20px;
+    margin: 5px;
+}
+#Erradas{
+    color: red;
+    font-size: 20px;
+    margin: 5px;
+}
